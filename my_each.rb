@@ -8,7 +8,5 @@ def my_each (array)
     end
 
     array
-  else
-    return "Hey! No block was given!"
   end
 end
